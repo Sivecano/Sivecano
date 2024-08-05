@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sivecano
 - 👀 I’m interested in exploring fun ideas
-- 🌱 I’m currently learning haskell
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning zig and haskell
+- 💞️ I’m looking to collaborate on open source stuff ig
+- 📫 How to reach me e-mail
 
 <!---
 Sivecano/Sivecano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
